@@ -1,0 +1,104 @@
+[
+    {
+        "StartTime": "2021-06-07T23:00:00+00:00",
+        "EndTime": "2021-06-07T23:05:00+00:00",
+        "Summary": "Event01",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-07T23:05:00+00:00",
+        "EndTime": "2021-06-08T13:00:00+00:00",
+        "Summary": "Event02",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T11:00:00+00:00",
+        "EndTime": "2021-06-08T12:00:00+00:00",
+        "Summary": "Event03",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T11:40:00+00:00",
+        "EndTime": "2021-06-08T13:00:00+00:00",
+        "Summary": "Event04",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T11:40:00+00:00",
+        "EndTime": "2021-06-08T14:30:00+00:00",
+        "Summary": "Event05",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T12:00:00+00:00",
+        "EndTime": "2021-06-08T13:00:00+00:00",
+        "Summary": "Event06",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T12:00:00+00:00",
+        "EndTime": "2021-06-08T13:00:00+00:00",
+        "Summary": "Event07",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T12:30:00+00:00",
+        "EndTime": "2021-06-08T14:00:00+00:00",
+        "Summary": "Event08",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T13:00:00+00:00",
+        "EndTime": "2021-06-08T14:59:00+00:00",
+        "Summary": "Event09",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-08T13:00:00+00:00",
+        "EndTime": "2021-06-08T14:59:00+00:00",
+        "Summary": "Event10",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-09T13:00:00+00:00",
+        "EndTime": "2021-06-09T14:59:00+00:00",
+        "Summary": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-10T13:00:00+00:00",
+        "EndTime": "2021-06-10T14:00:00+00:00",
+        "Summary": "Event11",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-10T13:00:00+00:00",
+        "EndTime": "2021-06-10T14:00:00+00:00",
+        "Summary": "Foo",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-10T13:00:00+00:00",
+        "EndTime": "2021-06-10T14:00:00+00:00",
+        "Summary": "Modeling Bootcamp",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-11T13:00:00+00:00",
+        "EndTime": "2021-06-11T14:00:00+00:00",
+        "Summary": "Shader School",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-12T13:00:00+00:00",
+        "EndTime": "2021-06-12T14:00:00+00:00",
+        "Summary": "Unity Game Jam",
+        "TimeZone": "Tokyo Standard Time"
+    },
+    {
+        "StartTime": "2021-06-12T13:00:00+00:00",
+        "EndTime": "2021-06-12T14:00:00+00:00",
+        "Summary": "Visual Studio Meetup",
+        "TimeZone": "Tokyo Standard Time"
+    }
+]
